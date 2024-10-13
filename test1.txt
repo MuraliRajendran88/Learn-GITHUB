@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 adding a file into git
+=======
+adding a file into github
+>>>>>>> b72a766bb9b5cd8790678638304b0b84cf4471bf
